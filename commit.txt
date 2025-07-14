@@ -1,0 +1,11 @@
+to commit to github:
+
+type in vscode terminal:
+    
+    cd AllHouse_App
+    git add .
+    git commit -m "Commit message"
+    git push -u origin main
+        if does not work use:
+        git push origin main --force
+
